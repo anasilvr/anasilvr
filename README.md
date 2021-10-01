@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Libft - Your very first own library [42School]**
 
-- 📫 How to reach me **ana.lrs90@gmail.com**
+- 📫 How to reach me **anarodri@student.42quebec.com**
 
 - ⚡ Fun fact **I can lick my own elbow.**
 
