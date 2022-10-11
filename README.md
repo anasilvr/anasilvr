@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">New 42 Québec student who loves cats.</h3>
 
-- 🔭 I’m currently working on **so_long**
+- 🔭 I’m currently working on **minishell**
 
 - 📫 How to reach me **anarodri@student.42quebec.com**
 
