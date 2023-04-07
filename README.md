@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">42 Québec student who loves cats and capybaras.</h3>
 
-- 🔭 I’m currently working on **minishell** with [Thomas Chalifour](https://github.com/Kagan0591) and [Jasmin Gagnon](https://github.com/Patarion). 🤝
+- 🔭 I’m currently working on **minishell** [42 School](https://github.com/42school) with [Thomas Chalifour](https://github.com/Kagan0591) and [Jasmin Gagnon](https://github.com/Patarion). 🤝
+- 🔭 While also working on **CPP Piscine** [42 School](https://github.com/42school) and **Explorer** [Rocketseat](https://github.com/Rocketseat).
 
 <h3 align="left">Connect with me 📫 </h3>
 <p align="left">
