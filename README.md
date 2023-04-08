@@ -11,8 +11,8 @@
 		<img alt="E-mail" src="https://img.shields.io/badge/-e--mail%20me-red&link=mailto:ana.lrs90@gmail.com" />
 	</a>
 	<span> * </span>
-	<a href="[[https://www.linkedin.com/in/appinha/](https://www.linkedin.com/in/anasilveira90/)](https://www.linkedin.com/in/anasilveira90/)">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/appinha/](https://www.linkedin.com/in/anasilveira90/)]https://www.linkedin.com/in/anasilveira90/" />
+	<a href="mailto:ana.lrs90@gmail.com">
+		<img alt="E-mail" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:ana.lrs90@gmail.com" />
 	</a>
 	<span> * </span>
 	<a href="https://profile.intra.42.fr/users/anarodri">
