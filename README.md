@@ -4,10 +4,11 @@
 - 🔭 I’m currently working on **minishell** [42 School](https://github.com/42school) with [Thomas Chalifour](https://github.com/Kagan0591) and [Jasmin Gagnon](https://github.com/Patarion). 🤝
 - 🔭 While also working on **CPP Piscine** [42 School](https://github.com/42school) and **Explorer** [Rocketseat](https://github.com/Rocketseat).
 
-<h3 align="left">Connect with me 📫 </h3>
+
+
 <p align="center">
 	<a href="mailto:ana.lrs90@gmail.com">
-		<img alt="E-mail" src="https://img.shields.io/badge/-E-mail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:ana.lrs90@gmail.com" />
+		<img alt="E-mail" src="https://img.shields.io/badge/-e--mail%20me-red&link=mailto:ana.lrs90@gmail.com" />
 	</a>
 	<span> * </span>
 	<a href="[[https://www.linkedin.com/in/appinha/](https://www.linkedin.com/in/anasilveira90/)](https://www.linkedin.com/in/anasilveira90/)">
