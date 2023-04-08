@@ -10,8 +10,8 @@
 </p>
 
 
-- 😎 I'm about to finish <strong>minishell</strong> from <a href="https://github.com/42school">42 School</a> with <a href="https://github.com/Kagan0591">Thomas Chalifour</a> and <a href="https://github.com/Patarion">Jasmin Gagnon</a>. 🤝 <br>
-- 🧐 While I'm also working on <strong>CPP Piscine</strong> <a href="https://github.com/42school">42 School</a> and <strong>Explorer</strong> <a href="https://github.com/Rocketseat">Rocketseat</a>.
+- 😎 I'm about to finish <strong>minishell</strong> from <a href="https://github.com/42school">42 School</a> with <a href="https://github.com/Kagan0591">Thomas Chalifour</a> and <a href="https://github.com/Patarion">Jasmin Gagnon</a> 🤝 <br>
+- 🧐 While I'm also working on <strong>CPP Piscine</strong> <a href="https://github.com/42school">42 School</a> and <strong>Explorer</strong> <a href="https://github.com/Rocketseat">Rocketseat</a>
 - 🌱 I’m currently learning **C++, CSS and JavaScript**
 
 - 👯 I’m looking to collaborate on **animal welfare related projects**
