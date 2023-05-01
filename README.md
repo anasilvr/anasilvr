@@ -10,8 +10,8 @@
 </p>
 
 
-- 😎 I'm currently working on <a href="https://github.com/42school">42 School</a><strong> CPP Piscine</strong> <br>
-- 🧐 While I'm also working on <strong>Explorer</strong> course by <a href="https://github.com/Rocketseat">Rocketseat</a>
+- 😎 I'm currently working on <a href="https://github.com/42school">42's</a><strong> CPP Piscine</strong> <br>
+- 🧐 While I'm also working on <a href="https://github.com/Rocketseat">Rocketseat's</a> <strong>Explorer</strong>.
 - 🌱 I’m currently learning **C++, CSS and JavaScript**
 
 - ⚡ Fun fact **I can lick my own elbow**
