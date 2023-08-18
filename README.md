@@ -10,7 +10,7 @@
 </p>
 
 
-- 😎 I'm currently working on <a href="https://github.com/42school">42's</a><strong> CPP Piscine</strong> <br>
+- 😎 I'm currently working on <a href="https://github.com/42school">42's</a><strong> ft_transcendence</strong> <br>
 - 🧐 While I'm also working on <a href="https://github.com/Rocketseat">Rocketseat's</a> <strong>Explorer</strong>
 - 🌱 I’m currently learning **C++, CSS and JavaScript**
 
