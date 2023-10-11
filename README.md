@@ -9,6 +9,7 @@
     <a href="https://profile.intra.42.fr/users/anarodri"> <img alt="42 School Profile" src="https://img.shields.io/badge/-anarodri_@_42-red?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/anarodri" /></a>
 </p>
 
+<!---
 
 - 😎 I'm currently working on <a href="https://github.com/42school">42's</a><strong> ft_transcendence</strong> <br>
 - 🌱 I’m currently learning **HTML5, CSS, TypeScript and React 18**
@@ -31,7 +32,6 @@
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
           <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<!---
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/anasilvr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anasilvr" /></a></p><br><br>
 -->
